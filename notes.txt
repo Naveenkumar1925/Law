@@ -1,0 +1,7 @@
+conda install -c pytorch faiss-gpu
+or 
+conda install -c conda-forge faiss-cpu
+pip install pymupdf pandas networkx rank-bm25 speechrecognition pyttsx3
+
+$env:OLLAMA_GPU_LAYERS=100
+$env:OLLAMA_NUM_PARALLEL=8
