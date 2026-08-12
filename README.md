@@ -147,7 +147,3 @@ The included `data/judgments.csv` contains Indian Supreme Court judgment metadat
 - Because everything runs locally, first-time responses may be slower while models load into memory.
 
 ---
-
-## License
-
-No license file is currently included. Add one (for example, MIT) if you intend for others to reuse this code.
